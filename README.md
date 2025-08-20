@@ -5,7 +5,7 @@
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">  
@@ -21,7 +21,7 @@
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-</td></tr><tr><td valign="top" width="100%">
+</td></tr><tr><td valign="top" width="33%">
 
 ### Backend  
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">  
@@ -40,7 +40,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td></tr><tr><td valign="top" width="100%">
+</td></tr><tr><td valign="top" width="34%">
 
 ### Tools & Other  
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">  
